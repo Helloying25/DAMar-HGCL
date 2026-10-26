@@ -1,4 +1,4 @@
-# DAMarHGCL
+# DAMar-HGCL
 
 **Density-Adaptive Margin and Hierarchical Sampling for Heterogeneous Graph Contrastive Learning**
 
